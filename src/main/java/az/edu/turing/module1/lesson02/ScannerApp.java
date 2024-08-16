@@ -7,7 +7,6 @@ public class ScannerApp {
         {
                 System.out.println("Enter a number:");
                 Scanner scanner = new Scanner(System.in);
-
                 int number = scanner.nextInt();
                 String result = number % 2 == 0 ? "EVEN" : "ODD";
                 System.out.println(result);
