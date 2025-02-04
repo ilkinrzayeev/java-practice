@@ -1,4 +1,4 @@
-package az.edu.turing.module1.lesson01;
+package az.edu.turing.module01.lesson01;
 
 public class SwitchExample {
     public static void main(String[] args) {
